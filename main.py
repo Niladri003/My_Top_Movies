@@ -22,7 +22,7 @@ This will install the packages from requirements.txt for this project.
 '''
 
 
-MOVIE_DB_API_KEY = '94e2098f0f950303d3aebbd9e180a2d2'
+MOVIE_DB_API_KEY = 'Enter your own API key'
 MOVIE_DB_SEARCH_URL = "https://api.themoviedb.org/3/search/movie"
 MOVIE_DB_INFO_URL = "https://api.themoviedb.org/3/movie"
 MOVIE_DB_IMAGE_URL = "https://image.tmdb.org/t/p/w500"
